@@ -51,5 +51,6 @@ Screenshots showing:
 
 Oracle Enterprise Manager was configured and accessed successfully.
 The dashboard displayed the Oracle environment and created PDB.
+![pdb creation](https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy/blob/69473ed7ec2ebdc8f0d0e9dce4eb66992300a20e/screenshots/oem%20dashboard.png)
 
 
