@@ -53,4 +53,10 @@ Oracle Enterprise Manager was configured and accessed successfully.
 The dashboard displayed the Oracle environment and created PDB.
 ![pdb creation](https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy/blob/69473ed7ec2ebdc8f0d0e9dce4eb66992300a20e/screenshots/oem%20dashboard.png)
 
+##Challenges Faced
 
+I encountered an issue when trying to log in to OEM because I was entering a container name, which prevented access; I resolved it by leaving the container name field blank.
+
+##Integrity Statement
+
+I confirm that this work is entirely my own and was completed individually in accordance with the academic integrity guidelines.
