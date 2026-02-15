@@ -60,3 +60,26 @@ I encountered an issue when trying to log in to OEM because I was entering a con
 ## Integrity Statement
 
 I confirm that this work is entirely my own and was completed individually in accordance with the academic integrity guidelines.
+
+---
+
+## Submission Information
+
+**Repository Link:**https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy
+**PDB Name Created:** TH_PDB_28389
+**Issues Encountered:** yes
+
+---
+
+## Final Checklist
+
+* Correct PDB name used
+* User created inside the PDB
+* Temporary PDB created and deleted
+* OEM dashboard screenshot included
+* GitHub repository is PUBLIC
+* README is clear and professional
+* Deadline respected
+
+
+
