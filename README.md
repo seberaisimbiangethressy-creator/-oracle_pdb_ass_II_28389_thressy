@@ -46,6 +46,7 @@ Screenshots showing:
 -PDB creation
 ![pdb creation](https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy/blob/c1ac37eb09b480b68facb695cae87526cdaa4123/screenshots/pdb%20creation.png)
 -PDB deletion commands
+![pdb creation](https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy/blob/9d70c884a5c4928362552ba34e621164fcc28d25/screenshots/pdb%20deletion.png)
 
 
 
