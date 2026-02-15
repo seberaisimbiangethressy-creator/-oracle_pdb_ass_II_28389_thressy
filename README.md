@@ -31,8 +31,9 @@ Screenshots showing:
 - The open state of the PDB
 - ![pdb creation](https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy/blob/b121179b56998660e9d029a1ff43fd419248d5ba/screenshots/pdb%20open%20state.png)
 - The created user inside the PDB
+- ![pdb creation](https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy/blob/5bf763741f5f4eda9dd944b6ec62f77baf92ba63/screenshots/pdb%20user.png)
 
-are included in the screenshots folder as evidence.
+task 2:
 
 
 
