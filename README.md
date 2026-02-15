@@ -40,9 +40,11 @@ In this task, I created a temporary pluggable database using the required naming
 Once I confirmed its existence, I opened the temporary PDB and later closed it in order to proceed with the deletion process. I then deleted the temporary PDB completely including its associated datafiles from the system.
 
 Finally, I confirmed that the temporary PDB was successfully removed by displaying the list of pluggable databases again to ensure that it no longer appeared in the environment.
-Screenshots showing:
--PDB creation
 
+Screenshots showing:
+
+-PDB creation
+![pdb creation](https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy/blob/c1ac37eb09b480b68facb695cae87526cdaa4123/screenshots/pdb%20creation.png)
 -PDB deletion commands
 
 
