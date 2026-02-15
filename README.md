@@ -33,7 +33,17 @@ Screenshots showing:
 - The created user inside the PDB
 - ![pdb creation](https://github.com/seberaisimbiangethressy-creator/-oracle_pdb_ass_II_28389_thressy/blob/5bf763741f5f4eda9dd944b6ec62f77baf92ba63/screenshots/pdb%20user.png)
 
-task 2:
+## Task 2: Temporary PDB Creation and Deletion
+
+In this task, I created a temporary pluggable database using the required naming convention provided in the assignment instructions. After creating the temporary PDB, I verified that it was successfully created by checking the list of available pluggable databases.
+
+Once I confirmed its existence, I opened the temporary PDB and later closed it in order to proceed with the deletion process. I then deleted the temporary PDB completely including its associated datafiles from the system.
+
+Finally, I confirmed that the temporary PDB was successfully removed by displaying the list of pluggable databases again to ensure that it no longer appeared in the environment.
+Screenshots showing:
+-PDB creation
+
+-PDB deletion commands
 
 
 
