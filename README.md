@@ -73,15 +73,7 @@ I confirm that this work is entirely my own and was completed individually in ac
 
 ---
 
-## Final Checklist
 
-* Correct PDB name used
-* User created inside the PDB
-* Temporary PDB created and deleted
-* OEM dashboard screenshot included
-* GitHub repository is PUBLIC
-* README is clear and professional
-* Deadline respected
 
 
 
